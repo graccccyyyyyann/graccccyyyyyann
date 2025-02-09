@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @graccccyyyyyann
-- 👀 I’m interested in ...AI/ML
+- 👋 Hi, I’m @graccccyyyyyann...your problem solver
+- 👀 I’m interested in ...AI/ML and anything web development...got an ick for blockchain as well..gotta be rich yk!
 - 🌱 I’m currently learning ...ReactNative
 - 💞️ I’m looking to collaborate on ...projects...involving...AI and blockchain
 - 📫 How to reach me ...@annapeani15@gmail.com
